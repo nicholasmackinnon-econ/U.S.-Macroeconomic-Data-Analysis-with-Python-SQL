@@ -152,7 +152,7 @@ README.md
 
 1. Clone the repository
 
-git clone https://github.com/yourusername/project-name.git
+git clone https://github.com/nicholasmackinnon-econ/U.S.-Macroeconomic-Data-Analysis-with-Python-SQL.git
 
 2. Install required libraries
 
