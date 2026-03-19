@@ -182,6 +182,3 @@ This project was created as part of a data analytics and economics portfolio to 
 
 Nicholas Mackinnon  
 Economics Student
-
-## Update
-This project was successfully connected using Git and updated locally.
